@@ -13,4 +13,5 @@ RectGrid.render();
 ```
 
 **Output**
+
 To view node's id and coordinates open the browser console. 
